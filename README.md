@@ -9,5 +9,5 @@ A unsupervise model that trade snapchat stocks base on a 1000 days record. it do
 
 A model that play ping pong using  https://gym.openai.com/ .. 
 
-Other ML models for different stocks movements forecasting .
+Other ML models for different stocks forecasting .
 
